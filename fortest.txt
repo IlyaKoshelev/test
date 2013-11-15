@@ -1,6 +1,6 @@
 1changese in sigma
 2changed in sigma
-3
+3FROM 1
 4 changes from 1
 5changes from 2
 
